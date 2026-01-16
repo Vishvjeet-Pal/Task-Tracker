@@ -1,0 +1,14 @@
+# Environment variables
+.env
+.env.*
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# SQLite database
+*.db
+
+# Logs
+logs/
